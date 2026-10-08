@@ -1,2 +1,1 @@
-This is the Original message
-this is the message from MAIN Branch
+This message is from both the branches main and feature1
